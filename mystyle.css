@@ -1,0 +1,15 @@
+.wrap {
+    width: 300px;
+    margin: auto;
+}
+
+.mytitle {
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    background-image: url('https://img.newspim.com/news/2020/06/03/2006031031046940.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    padding-top: 40px;
+}
